@@ -6,7 +6,7 @@ We created this book in response to the many questions we’ve received online, 
 Use it for your project and educate the community on why Bitcoin is not crypto.
 
 ✍️ Canva link to duplicate and edit the project: https://www.canva.com/design/DAGlmpNvXes/Q0tn9e44aqPHgeRN5VLOdA/view?utm_content=DAGlmpNvXes&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbcad8a4e6c
-
+(if any errors occure with the canva file, please message us on social media or at info@bitcoinindonesia.xyz)
 🇬🇧 English Blog Article: https://bitcoinindonesia.xyz/21-reasons-why-bitcoin-is-not-crypto-book/
 
 🇮🇩 Indonesian Blog Article: https://bitcoinindonesia.xyz/id/21-alasan-mengapa-bitcoin-bukan-kripto-buku/
