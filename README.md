@@ -1,7 +1,7 @@
 # Bitcoin-is-Not-Crypto-Book
 21 Reasons Why Bitcoin is Not Crypto (Book)
 
-We created this book in response to the many questions we’ve received online, at meetups, and at the Bitcoin House in Bali asking whether Bitcoin is considered a cryptocurrency. To clear up the confusion once and for all, we’ve written this free book in Indonesian.You can access the book for free at HERE or on GitHub. If you prefer a physical copy, you can purchase the printed version through our online shop at or pick it up directly at the Bitcoin House in Bali.We encourage everyone to dive into this learning journey, and we hope that Bitcoin brings value and financial empowerment to you and your family.
+We created this book in response to the many questions we’ve received online, at meetups, and at the Bitcoin House in Bali asking whether Bitcoin is considered a cryptocurrency. To clear up the confusion once and for all, we’ve written this free book in Indonesian. You can access the book for free at HERE or on GitHub. If you prefer a physical copy, you can purchase the printed version through our online shop at or pick it up directly at the Bitcoin House in Bali. We encourage everyone to dive into this learning journey, and we hope that Bitcoin brings value and financial empowerment to you and your family.
 
 Use it for your project and educate the community on why Bitcoin is not crypto.
 
