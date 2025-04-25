@@ -9,6 +9,6 @@ Use it for your project and educate the community on why Bitcoin is not crypto.
 
 🇬🇧 English Blog Article: https://bitcoinindonesia.xyz/21-reasons-why-bitcoin-is-not-crypto-book/
 
-🇮🇩Indonesian Blog Article: https://bitcoinindonesia.xyz/id/21-alasan-mengapa-bitcoin-bukan-kripto-buku/
+🇮🇩 Indonesian Blog Article: https://bitcoinindonesia.xyz/id/21-alasan-mengapa-bitcoin-bukan-kripto-buku/
 
 ![21alasan book ](https://github.com/user-attachments/assets/58666cef-68fa-4577-a7b5-4e3193735fa7)
